@@ -3,9 +3,9 @@
 #include <AudioGeneratorWAV.h>
 #include <AudioOutputInternalDAC.h>
 
-const char* ssid = "Shakthi";
-const char* password = "15120909";
-const String apiKey = "02606c769a4149acb63b886b334f4ed0"; // Your VoiceRSS API key
+const char* ssid = "WIFI";
+const char* password = "PASSWORD";
+const String apiKey = "GENERATE_KEY"; // Your VoiceRSS API key
 
 AudioGeneratorWAV *wav = nullptr;
 AudioFileSourceHTTPStream *file = nullptr;
