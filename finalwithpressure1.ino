@@ -10,8 +10,8 @@
 #include <Adafruit_BMP085.h>
 #include <time.h>
 
-#define WIFI_SSID "Shakthi"
-#define WIFI_PASSWORD "15120909"
+#define WIFI_SSID "YOUR_WIFI"
+#define WIFI_PASSWORD "YOUR_PASSWORD"
 
 #define MQ135_PIN 4
 #define DHT_PIN 15
@@ -21,10 +21,10 @@
 #define SCREEN_HEIGHT 64
 #define OLED_RESET -1
 
-#define API_KEY "AIzaSyCWAZuBvel0nkdu3jLvSOPiBMijkqgtW2I"
-#define DATABASE_URL "https://tempdatalog-a06cb-default-rtdb.firebaseio.com"
-#define USER_EMAIL "poggyztsi0101@gmail.com"
-#define USER_PASSWORD "Sree@0101"
+#define API_KEY "GENERATE_KEY"
+#define DATABASE_URL "URL"
+#define USER_EMAIL "YOUR_EMAIL"
+#define USER_PASSWORD "YOUR_PASSWORD"
 
 FirebaseData fbdo;
 FirebaseAuth auth;
