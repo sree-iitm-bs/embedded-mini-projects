@@ -1,4 +1,4 @@
-# Embedded-mini-projects#
+# Embedded-mini-projects
 
 To Do:
 -Improve robustness on certain sensor failure cases.
