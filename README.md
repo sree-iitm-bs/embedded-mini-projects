@@ -1,3 +1,5 @@
+#Embedded-mini-projects#
+
 To Do:
 -Improve robustness on certain sensor failure cases.
 -Managing Data in Firebase.
